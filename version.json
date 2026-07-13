@@ -1,9 +1,8 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "changelog": [
+  "changelog": 
     "• Bugfixes",
     "• Sortiefunktion",
-    "• Fehler bei mehreren Playlisten behoben"
-  ]
+    "• Fehler bei mehreren Playlisten behoben"  
 }
