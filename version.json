@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "changelog": 
-    "• Bugfixes\n• Sortiefunktion\n• Fehler bei mehreren Playlisten behoben"  
+    "• Versteckte Kategorien werden nicht mehr in der Suche angezeigt\n• Update Funktion implementiert\n• Versionsnummer Hinzugefügt"  
 }
