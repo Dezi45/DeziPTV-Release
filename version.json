@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4",
+  "versionCode": 5,
+  "versionName": "1.5",
   "changelog": 
-    "• Longpress Funktion gefixt\n• UI anpassungen\n• Bugfixes\n• Einstellungen->Kanäle angepasst"  
+    "• Bugfixes\n• Perfomance verbersserung\n• Beschreibung bei Filmen hinzugefügt\n"  
 }
