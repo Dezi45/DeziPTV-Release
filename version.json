@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.5",
+  "versionCode": 6,
+  "versionName": "1.6",
   "changelog": 
-    "• Bugfixes\n• Perfomance verbersserung\n• Beschreibung bei Filmen hinzugefügt\n"  
+    "• Bugfixes\n• Perfomance verbersserung\n• EPG wird jetzt beim Senderwechsel angezeigt\n"  
 }
