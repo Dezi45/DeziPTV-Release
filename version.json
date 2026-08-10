@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.6",
+  "versionCode": 7,
+  "versionName": "1.7",
   "changelog": 
-    "• Bugfixes\n• Perfomance verbersserung\n• EPG wird jetzt beim Senderwechsel angezeigt\n"  
+    "• TV Sender und Kategorien können jetzt sortiert werden\n• Ausgewählte Audiosprache wird gespeichert\n"  
 }
