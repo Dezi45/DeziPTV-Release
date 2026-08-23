@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8b",
+  "versionCode": 10,
+  "versionName": "1.9",
   "changelog": 
-    "• Performance verbesserung\n• Bugfixes"  
+    "• Fix: Senderwechsel mit D-Pad\n• Fix: Suche funktioniert wieder Global"  
 }
