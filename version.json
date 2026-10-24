@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.11",
+  "versionCode": 14,
+  "versionName": "1.11b",
   "changelog": 
-    "• Bugfix\n• Ausgewählte Audiosprache wird gespeichert\n• Geschaute Episoden/Filme werden als angesehen angezeigt und bei erneuten abschauen von Anfang an abgespielt"  
+    "• Speicheroptimierung"  
 }
