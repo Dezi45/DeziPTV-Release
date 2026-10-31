@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.11c",
+  "versionCode": 16,
+  "versionName": "1.12",
   "changelog": 
-    "• Optimierung der EPG Datenbank und Bugfixes"  
+    "• Bugfix: Kategorien in TV werden wieder geladen\n• Bugfix: Zuletzt geschaut in TV\n• Speicheroptimierung\n• D-Pad & TV-Fokus"  
 }
