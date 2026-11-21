@@ -1,5 +1,5 @@
 {
-    "versionCode":  20,
-    "versionName":  "2.2",
-    "changelog":  "• Live-TV: Buffer-Optimierung \u0026 Auto-Reconnect gegen Stream-Hänger\n• Bugfix: Suche durchsucht jetzt zuverlässig alle Kategorien\n• Filme \u0026 Serien: Automatische „Gesehen“-Markierung, „Von vorne“-Start \u0026 Nächste-Folge-Vorschlag\n• Details: Erweiterte Infos (Bewertung, Jahr, Laufzeit, Genre \u0026 Cast)\n• Ersteinrichtung \u0026 EPG: Lädt Playlist direkt nach dem Speichern \u0026 EPG-Optimierungen"
+    "versionCode":  21,
+    "versionName":  "2.2a",
+    "changelog":  "• Bugfix: TV-Suche behält die Ergebnisse bei und fokussiert nach Enter direkt den ersten Treffer"
 }
