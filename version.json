@@ -1,5 +1,5 @@
 {
-    "versionCode":  21,
-    "versionName":  "2.2a",
-    "changelog":  "• Bugfix: TV-Suche behält die Ergebnisse bei und fokussiert nach Enter direkt den ersten Treffer"
+    "versionCode": 22,
+    "versionName": "2.2b",
+    "changelog": "• Verbesserte Suche in Filmen & Serien (Volltextsuche mit Relevanzsortierung)\n• Bugfix: Versteckte Kategorien werden aus der Suche ausgeschlossen\n• Optimiertes Player-Buffering & automatischer Reconnect bei Live-TV\n• Bugfix: Episoden-Startposition & zuletzt geschaute Kanäle"
 }
