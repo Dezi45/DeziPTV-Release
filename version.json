@@ -1,5 +1,5 @@
 {
-    "versionCode": 22,
-    "versionName": "2.2b",
-    "changelog": "• Verbesserte Suche in Filmen & Serien (Volltextsuche mit Relevanzsortierung)\n• Bugfix: Versteckte Kategorien werden aus der Suche ausgeschlossen\n• Optimiertes Player-Buffering & automatischer Reconnect bei Live-TV\n• Bugfix: Episoden-Startposition & zuletzt geschaute Kanäle"
+  "versionCode": 23,
+  "versionName": "2.2c",
+  "changelog": "• Bugfix: Eingefrorenes Live-TV-Bild auf Fire TV Sticks behoben\n• Bugfix: Fehlerhafter Stream-Fallback bei Live-TV-Reconnects entfernt\n• Optimierte Live-TV-Pufferung & Watchdog für Fire TV"
 }
